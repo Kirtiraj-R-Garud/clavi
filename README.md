@@ -70,7 +70,17 @@ This is an all-in-one college management app.
 * [ ] Canteen Admin Panel
 * [x] **404 page**
 * [ ] Payments using [UPI](https://en.wikipedia.org/wiki/Unified_Payments_Interface) or [PayTM](http://paytm.com)
-* [ ] IEEE
+* [ ] **IEEE**
+  * [ ] IEEE Student Branches
+  * [ ] IEEE Sections
+  * [ ] IEEE Councils
+  * [ ] IEEE Regions
+  * [ ] IEEE Groups (like WHatsapp groups)
+  * [ ] IEEE Video Chat or Audio Chat (Like Web-X Meetings)
+  * [ ] Individual Profile page for every user with Valid IEEE number
+  * [ ] Permissions for Chair to Connect with Section SAC Chair and then Section SAC Chair forwarding the Query to Section Chair
+  * [ ] Permissions for Chair and SB Counselor and Chapter Advisors (Officially listed on IEEE Rastors)
+  
 
 ### Backend
 
